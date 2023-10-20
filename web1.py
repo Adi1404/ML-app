@@ -1,16 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 16 16:33:41 2023
-
-@author: Subhajit Das
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 16 16:33:41 2023
-
-@author: Subhajit Das
-"""
 
 import numpy as np
 import pickle
