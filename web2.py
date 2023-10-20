@@ -1,14 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 16 16:40:50 2023
-
-@author: Subhajit Das
-"""
-"""
-Created on Sun Apr 16 16:40:50 2023
-
-@author: Subhajit Das
-"""
 
 import streamlit as st
 import pandas as pd
